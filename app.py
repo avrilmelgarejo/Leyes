@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("images.png")
 st.set_page_config(page_title="Calculadora de Leyes de Gases", layout="centered")
 
 st.title("Calculadora de Leyes de Gases")

@@ -1,3 +1,4 @@
+st.images("tipos-ciencia-blog-2.jpg")
 import streamlit as st
 
 st.set_page_config(page_title="Calculadora de Leyes de Gases", layout="centered")

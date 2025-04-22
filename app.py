@@ -84,4 +84,4 @@ elif opcion == "Temperatura inicial (T1)":
         T1 = (T2 * P1 * V1) / (P2 * V2)
         st.success(f"La temperatura inicial (T1) es: {T1:.3f} K")
         st.info("Fórmula usada: T1 = (T2 × P1 × V1) / (P2 × V2)")
-st.image("images.png")
+st.image("1.png")
